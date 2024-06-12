@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlMetadataToExcel": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Server=DESKTOP-R7LHVNL;Database=myTest;User Id=sa;Password=<YourStrong@Passw0rd>;MultipleActiveResultSets=True;\" \"myTest.xlsx\""
+    }
+  }
+}
